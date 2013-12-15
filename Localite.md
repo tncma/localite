@@ -8,10 +8,10 @@
 *Venkata Krishna Chaitanya Mannem - NBOS technologies, Hyderabad
 
 ##Problem: 
-* There is a communication gap between the government officials and public. 
-* For better governance public should also contribute and communicate effectively within the neighbourhood which is reducing a lot due to current lifestyle.
-* Any government related announcement for a particular locality is a pain. Mostly communicated through word of mouth.
-* Datasets and current redressal system not user friendly. Enabling APIs for these sites would open up great opportunity for developers and third party applications. 
+1. There is a communication gap between the government officials and public. <br/>
+2. For better governance public should also contribute and communicate effectively within the neighbourhood which is reducing a lot due to current lifestyle. <br/>
+3. Any government related announcement for a particular locality is a pain. Mostly communicated through word of mouth. <br/>
+4. Datasets and current redressal system not user friendly. Enabling APIs for these sites would open up great opportunity for developers and third party applications. <br/>
 
 ##Solution: 
 *Provide a platform where users will be able to follow specific areas which they prefer to. 

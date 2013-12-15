@@ -14,13 +14,13 @@
 4. Datasets and current redressal system not user friendly. Enabling APIs for these sites would open up great opportunity for developers and third party applications. <br/>
 
 ##Solution: 
-*Provide a platform where users will be able to follow specific areas which they prefer to. 
-*Government can make important announcements and notifications to the users based on the area. Eg. Dengue alert, Aadhar registration. CCTP page in facebook is a great example for the response from public.
-*An effective platform for social reporting on civic services. Complaints registered to existing redressal system through APIs. 
-*Dashboard for both public and government to view trending complaints and governance effectiveness.
-*For Analytics, Government can view the dashboard at ward, zone, district and state level.
-*Public to actively communicate with neighbourhood to track what's happening and create awareness. 
-*Opportunity for local and small business/vendors to reach the public.
+*Provide a platform where users will be able to follow specific areas which they prefer to. <br/>
+*Government can make important announcements and notifications to the users based on the area. Eg. Dengue alert, Aadhar registration. CCTP page in facebook is a great example for the response from public. <br/>
+*An effective platform for social reporting on civic services. Complaints registered to existing redressal system through APIs. <br/>
+*Dashboard for both public and government to view trending complaints and governance effectiveness. <br/>
+*For Analytics, Government can view the dashboard at ward, zone, district and state level. <br/>
+*Public to actively communicate with neighbourhood to track what's happening and create awareness. <br/> 
+*Opportunity for local and small business/vendors to reach the public. <br/>
 
 ##Links:
 
